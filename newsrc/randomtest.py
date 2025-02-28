@@ -6,7 +6,7 @@ from collections import deque
 randomList = []
 randomArray = array.array('i',[])
 randomDeque = deque()
-howManyInts = 100000
+howManyInts = 1000000
 now = time.time()
 
 for i in range(howManyInts):
